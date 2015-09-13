@@ -43,7 +43,7 @@ Save your changes.
 Running the App
 ---------------
 
-At this point, we're ready to run the app. You can do this by simply entering ``dnx . run`` from the command prompt. You should see a result like this one:
+At this point, we're ready to run the app. You can do this by simply entering ``dnx run .`` from the command prompt. You should see a result like this one:
 
 .. image:: console/_static/dnx-run.png
 
